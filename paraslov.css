@@ -1,0 +1,107 @@
+body { 
+	font-family: Geneva, Verdana, Arial, sans-serif;
+background-color: #ffcc99; 
+color: #333;
+line-height: normal;
+margin: 5px 20px 5px 20px;
+border: 1px dotted #f27400;
+padding: 15px;
+}
+#table1 {
+	display: table;
+	border-spacing: 10px;
+}
+#tablerow1 {display: table-row;}
+#logot {
+	text-align: center;
+}
+h2 {
+	font: italic;
+}
+#mainsec, #blog {
+	display: table-cell;
+	border: 2px #f27400 ridge;
+	padding: 10px;
+	vertical-align: top;
+}
+
+nav {
+	color: #f27400;
+	background-color: #333;
+	margin: 10px 11px 0px 11px;
+}
+nav a {
+	border-bottom: 1px dotted #F27400;
+	color: #f27400;
+	text-decoration: none;
+	font-weight: bold;
+}
+nav a:hover {background-color: #777;}
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+}
+nav ul li {
+	display: inline;
+	padding: 5px 10px 5px 10px;
+}
+nav .selected {background-color: #777}
+#stat {
+	display: table-cell;
+	border: 2px #f27400 ridge;
+	padding: 10px;
+	vertical-align: top;
+	background: #333;
+	color: #f27400;
+	width: 15%;
+}
+td {
+	border-bottom: 1px dotted #F27400;
+}
+#top {
+	line-height: normal;
+	color: #ffcc99;
+	text-align: center;
+	border: 2px dashed #f27400;
+	font: 1em "Times New Roman", Times, serif;
+	background-position: top left;
+	background-image: url(images/backimg.jpg);	
+}
+#top h2 {
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+#insta, #telega {border-bottom: 1px #ffcc99 dotted;}
+#top p a {
+	text-decoration-line: none;
+	border-bottom: none;
+}
+
+a:hover {
+     background-color: #333;
+}
+a {
+	text-decoration-line: none;
+	border-bottom: 1px dashed #f27400;
+	color: #f27400;
+}
+aside a:hover {background-color: #555;}
+aside {
+	display: table-cell;
+	background: #333;
+	color: #f27400;
+	width: 15%;
+	border: 1px ridge #f27400;
+	padding: 10px;
+	vertical-align: top;
+}
+footer {
+	color: #f27400;
+	font:  65% cursive;
+	background: #333;
+	padding: 1px 25px 1px 25px;
+	text-align: center;
+}
