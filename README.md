@@ -2,9 +2,17 @@
 
 ### I’m a junior Frontend Developer.
 
-And I'm currently looking for a job.
+<b>And I'm currently looking for a job.</b>
 <hr>
-
+<ul>
+  <li>🙌I like to write code</li>
+  <li>💪I'm constantly learn a new things</li>
+  <li>💥I love coding in React.js and TypeScript</li>
+ </ul>
+<strong>Languages and tools:</strong>
+  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Git</p>
+ <strong> Connect with me:</strong> 
+ <p>paraslovjm@gmail.com</p>
 <!--
 **paraslov/paraslov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
