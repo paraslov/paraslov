@@ -1,5 +1,9 @@
-### Hi there 👋 
-🌱 I’m currently looking for a job as junior frontend developer.
+### Hi there 👋 , I'm Sergey!
+
+### I’m a junior Frontend Developer.
+
+And I'm currently looking for a job.
+<hr>
 
 <!--
 **paraslov/paraslov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
