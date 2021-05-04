@@ -10,7 +10,7 @@
   <li>💥I love coding in React.js and TypeScript</li>
  </ul>
 <strong>Languages and tools:</strong>
-  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Git</p>
+  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
  <strong> Connect with me:</strong> 
  <p>paraslovjm@gmail.com</p>
 <!--
