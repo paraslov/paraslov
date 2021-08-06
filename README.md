@@ -1,13 +1,13 @@
 ### Hi there 👋 , I'm Sergey!
 
-### I’m a junior Frontend Developer.
+### I’m a frontend developer.
 
 <b>And I'm currently looking for a job.</b>
 <hr>
 <ul>
-  <li>🙌I like to write code</li>
-  <li>💪I'm constantly learn a new things</li>
-  <li>💥I love coding in React.js and TypeScript</li>
+  <li>🙌I love to write code</li>
+  <li>💪I enjoy constantly learning new things</li>
+  <li>💥I'm an enthusiastic React and Typescript coder</li>
  </ul>
 <strong>Languages and tools:</strong>
   <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
