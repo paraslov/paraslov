@@ -6,10 +6,10 @@
 <ul>
   <li>🙌I love to write code</li>
   <li>💪I enjoy constantly learning new things</li>
-  <li>💥I'm an enthusiastic React and Typescript coder</li>
+  <li>💥I'm an enthusiastic Javascript developer</li>
  </ul>
 <strong>Languages and tools:</strong>
-  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
+  <p>HTML5, CSS3, JavaScript, React.js, Vue, Mithril, react-redux, TypeScript, Storybook, Unit tests, Git</p>
  <strong> Connect with me:</strong> 
  <p>paraslovjm@gmail.com</p>
 <!--
